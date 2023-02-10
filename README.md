@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madhukapriyashan
-- 👀 I’m currently working on Full Stack Web Development.(MERN)
-- 🌱 I’m currently learning Python, Spring Boot and jQuery
-- 👯 I’m looking to collaborate on front-end and back-end projects
+- 🟥 I’m currently working on Full Stack Web Development.(MERN)
+- 🟥 I’m currently learning Python, Spring Boot and jQuery
+- 🟥 I’m looking to collaborate on front-end and back-end projects
 
 
 
