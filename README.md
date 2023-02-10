@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @madhukapriyashan
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on web applications
+- 👀 I’m currently working on Full Stack Web Development.(MERN)
+- 🌱 I’m currently learning Python, Spring Boot and jQuery
+- 👯 I’m looking to collaborate on front-end and back-end projects
+
 
 
 <!---
