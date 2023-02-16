@@ -41,6 +41,8 @@
 <br>
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Madhuka164&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+
 
 <a href="#Madhuka164-title">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Madhuka164&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="Madhuka164" align="left" />
