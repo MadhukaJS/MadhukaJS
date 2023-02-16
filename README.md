@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello..+I'm+Madhuka+Priyashan..)](https://git.io/typing-svg)
-
 - 🟥 I’m currently working on Full Stack Web Development.(MERN)
 - 🟥 I’m currently learning Python, Spring Boot and jQuery
 - 🟥 I’m looking to collaborate on front-end and back-end projects
