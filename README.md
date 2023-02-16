@@ -41,7 +41,7 @@
 <br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Madhuka164&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Madhuka164&theme=gruvbox_duo)](https://git.io/streak-stats)
 
 
 <a href="#Madhuka164-title">
