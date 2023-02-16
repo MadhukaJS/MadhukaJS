@@ -41,7 +41,7 @@
 <br>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Madhuka164&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Madhuka164&theme=dark)](https://git.io/streak-stats)
 
 
 <a href="#Madhuka164-title">
