@@ -27,7 +27,7 @@
 <h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours)</h3>
 
 <br>
-<center>
+
 [![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://github.com/Madhuka164)](https://github.com/Madhuka164)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94712892125)](https://wa.me/+94712892125)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madhuka164@gmail.com)](mailto:madhuka164@gmail.com)
@@ -37,7 +37,7 @@
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logoColor=white&logo=facebook&link=https://www.facebook.com/madhuka.samarasekara)](https://www.facebook.com/madhuka.samarasekara)
 
-</center>
+
 <br>
 
 
