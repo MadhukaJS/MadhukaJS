@@ -5,7 +5,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | JavaScript | React.JS | Node.JS | html 
+- 💻 &nbsp; Java | JavaScript | MERN 
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; IntelliJ | Visual Studio code | Git
