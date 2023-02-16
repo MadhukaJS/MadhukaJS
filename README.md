@@ -3,6 +3,15 @@
 - 🟥 I’m currently learning Python, Spring Boot and jQuery
 - 🟥 I’m looking to collaborate on front-end and back-end projects
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | JavaScript | React.JS | Node.JS | html 
+- 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | MongoDB
+- 🔧 &nbsp; IntelliJ | Visual Studio code | Git
+- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | Figma
+
+
 
 
 <p align="right">
