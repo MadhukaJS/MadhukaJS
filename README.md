@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello..+I'm+Madhuka+Priyashan..)](https://git.io/typing-svg)
-<h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours)</h3>
+<h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours)</h3><br>
 - 🟥 I’m currently working on Full Stack Web Development.(MERN)
 - 🟥 I’m currently learning Python, Spring Boot and jQuery
 - 🟥 I’m looking to collaborate on front-end and back-end projects
