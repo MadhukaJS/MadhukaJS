@@ -2,7 +2,7 @@
 <h3 align="left">🫵 I'm an undergraduate at University of Ruhuna, Sri Lanka.
 (Bachelor of Information and Communication Technology Honours)</h3><br>
 - 🟥 I’m currently working on Full Stack Web Development.(MERN)<br>
-- 🟥 I’m currently learning Python, Spring Boot and jQuery<br>
+- 🟥 I’m currently learning Java, Python, Spring Boot and jQuery<br>
 - 🟥 I’m looking to collaborate on front-end and back-end projects<br>
 
 <h3>🛠 Tech Stack</h3>
