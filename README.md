@@ -1,4 +1,4 @@
-<p><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello..+I'm+Madhuka+Priyashan.." alt="madhukajs" /></p> 
+<p align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello..+I'm+Madhuka+Priyashan.." alt="madhukajs" /></p> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello..+I'm+Madhuka+Priyashan..)](https://git.io/typing-svg)
 
