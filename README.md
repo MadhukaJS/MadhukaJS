@@ -29,7 +29,7 @@
 
 ### Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/madhukaJS/count.svg" alt ="Loading">
+<img align="center" src = "https://profile-counter.glitch.me/madhukaJS/count.svg" alt ="Loading">
 
 
 <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Madhukajs&theme=gruvbox_duo" alt="madhukajs" /></p>
