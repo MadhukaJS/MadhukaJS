@@ -31,3 +31,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhukajs&show_icons=true&locale=en" alt="madhukajs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhukajs&" alt="madhukajs" /></p>
+
+<a href="#MadhukaJS-title">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=MadhukaJS&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="MadhukaJS" align="left" />
+</a>
+
+<a href="#MadhukaJS-title">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhukajs&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="MadhukaJS" align="right" />
+</a>
