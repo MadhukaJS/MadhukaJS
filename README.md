@@ -1,4 +1,6 @@
+<h1 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello..+I'm+Madhuka+Priyashan..)](https://git.io/typing-svg)
+</h1>
 <h1 align="center">Hi 👋, I'm Madhuka Priyashan</h1>
 <h3 align="center">I'm an undergraduate at University of Ruhuna, Sri Lanka</h3>
 
