@@ -6,6 +6,10 @@
 
 <p align="center"> <a href="https://twitter.com/madhuka164" target="blank"><img src="https://img.shields.io/twitter/follow/madhuka164?logo=twitter&style=for-the-badge" alt="madhuka164" /></a> </p>
 
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+
 - 🔭 I’m currently working on **Full Stack Web Development.(MERN)**
 
 - 🌱 I’m currently learning **Java, Python, Spring Boot**
