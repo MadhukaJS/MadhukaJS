@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://twitter.com/madhuka164" target="blank"><img src="https://img.shields.io/twitter/follow/madhuka164?logo=twitter&style=for-the-badge" alt="madhuka164" /></a> </p>
 
 <p align="center">
-<img alt="loficity" width="600px" src="banner.jpg"</img>
+<img alt="loficity" width="1200px" src="banner.jpg"</img>
 </p>
 
 - 🔭 I’m currently working on **Full Stack Web Development.(MERN)**
