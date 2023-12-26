@@ -16,8 +16,6 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/madhuka-priyashan-2210651b7](https://www.linkedin.com/in/madhuka-priyashan-2210651b7) -->
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **madhuka164@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
