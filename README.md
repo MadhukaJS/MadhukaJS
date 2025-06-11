@@ -1,6 +1,6 @@
 <p align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello..+I'm+Madhuka+Priyashan.." alt="madhukajs" /></p> 
 
-<h3 align="center">I'm an undergraduate at University of Ruhuna, Sri Lanka</h3>
+<h3 align="center">Software developer with expertise in Angular, Spring Boot, Java, JavaScript, Typescript and related technologies..</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madhukajs&label=Profile%20views&color=0e75b6&style=flat" alt="madhukajs" /> </p>
 
