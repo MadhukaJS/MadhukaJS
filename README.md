@@ -8,7 +8,7 @@
 <img alt="banner" width="1200px" src="banner.jpg"</img>
 </p>
 
-- 🔭 I’m currently working on **Full Stack Development.(JavaScript,MERN,Java,Springboot)**
+- 🔭 I’m currently working on **Full Stack Development.(Java,Springboot,Angular,Typescript,JavaScript,Node.JS,React.JS)**
 
 <!--- 🌱 I’m currently learning **Angular,React.Js,Node.js**-->
 
