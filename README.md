@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madhukajs&label=Profile%20views&color=0e75b6&style=flat" alt="madhukajs" /> </p>
 
 <p align="center">
-<img alt="banner" width="1200px" src="banner.jpg"</img>
+<img alt="banner" width="1200px" src="banner2.jpg"</img>
 </p>
 
 - 🔭 I’m currently working on **Full Stack Development.(Java,Springboot,Angular,Typescript,JavaScript,Node.JS,React.JS)**
